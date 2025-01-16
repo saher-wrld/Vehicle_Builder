@@ -2,6 +2,13 @@
 ![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
+## Description
+
+This program offers an interactive experience where users can either create a brand-new vehicle or choose from a collection of existing ones. Once a vehicle is selected, users are able to take control and perform a variety of exciting actions.
+
+The code firsts prompts the user to either create a new vehicle or select an existing one. Once the selection or creation process is complete, the user can perform a variety of actions with the chosen vehicle, such as printing details, starting or stopping the vehicle, accelerating or decelerating by 5 mph, towing, or performing a wheelie. Once you are done with your selections, you can print its details to review the actions taken, or exit the program. Additionally, you have the option to select or create another vehicle, restarting the process.
+
+
 ## Table of Contents
 
 * [Description](#description)
@@ -15,13 +22,6 @@
 * [Links](#links)
 
 * [Questions](#questions)
-
-
-## Description
-
-This program offers an interactive experience where users can either create a brand-new vehicle or choose from a collection of existing ones. Once a vehicle is selected, users are able to take control and perform a variety of exciting actions.
-
-The code firsts prompts the user to either create a new vehicle or select an existing one. Once the selection or creation process is complete, the user can perform a variety of actions with the chosen vehicle, such as printing details, starting or stopping the vehicle, accelerating or decelerating by 5 mph, towing, or performing a wheelie. Once you are done with your selections, you can print its details to review the actions taken, or exit the program. Additionally, you have the option to select or create another vehicle, restarting the process.
 
 
 ## Instructions
