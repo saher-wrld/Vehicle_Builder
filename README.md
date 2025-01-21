@@ -54,7 +54,7 @@ This project is licensed under the MIT license.
 ## Links
 
 * [GitHub Repository](https://github.com/saher-wrld/Vehicle_Builder)
-* [Walkthrough Video](#)
+* [Walkthrough Video](https://drive.google.com/file/d/1rPnaIHwKifQspeITYdYsAk9u-UNci4Uy/preview)
 
 
 ## Questions
