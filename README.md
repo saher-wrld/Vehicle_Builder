@@ -40,11 +40,11 @@ npm start
 
 The user will first be prompted to chose between creating a new vehicle or a pre-existing one: 
 
-<img width="303" alt="Image" src="https://github.com/user-attachments/assets/fb222a2b-6cf0-4416-b0ba-2d64f1182bef" />
+<img width="731" alt="Image" src="https://github.com/user-attachments/assets/7d92a541-f5b6-4ad9-87ff-eeeeb2ff8398" />
 
 The user is then able to toggle between the options by using the arrow keys:
 
-<img width="731" alt="Image" src="https://github.com/user-attachments/assets/7d92a541-f5b6-4ad9-87ff-eeeeb2ff8398" />
+<img width="303" alt="Image" src="https://github.com/user-attachments/assets/fb222a2b-6cf0-4416-b0ba-2d64f1182bef" />
 
 
 ## Technologies
